@@ -1,0 +1,37 @@
+{
+  "export_timestamp": "2025-08-29T19:04:15.555130",
+  "system_version": "2.0.0",
+  "alarms": [
+    {
+      "id": "py20250829190348",
+      "timestamp": "2025-08-29T19:03:48.416984",
+      "symbol": "BTCUSDT",
+      "action": "BUY",
+      "price": "999.99",
+      "message": "Dashboard Test - 29.08.2025 22:03:48",
+      "telegram_success": true,
+      "whatsapp_success": true
+    }
+  ],
+  "service_config": {
+    "telegram": {
+      "enabled": true,
+      "health": true,
+      "last_check": null,
+      "retry_count": 0
+    },
+    "whatsapp": {
+      "enabled": true,
+      "health": true,
+      "last_check": null,
+      "retry_count": 0
+    }
+  },
+  "system_metrics": {
+    "total_signals": 1,
+    "success_rate": {
+      "telegram": 0,
+      "whatsapp": 0
+    },
+    "average_delay": 447.2787529230118,
+    "last_restart": 
