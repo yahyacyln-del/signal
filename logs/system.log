@@ -1,0 +1,184 @@
+2025-08-29T19:01:51.492306 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T19:01:53.444195 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T19:01:53.726192 - WHATSAPP_ERROR - Attempt 1 failed: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACabde460826a77e7b6dc28db02cf5a301/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACabde460826a77e7b6dc28db02cf5a301 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+
+2025-08-29T19:01:54.968856 - WHATSAPP_SUCCESS - Message sent successfully on attempt 2
+2025-08-29T19:03:42.675863 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T19:03:45.844849 - WHATSAPP_ERROR - Attempt 1 failed: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACabde460826a77e7b6dc28db02cf5a301/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACabde460826a77e7b6dc28db02cf5a301 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+
+2025-08-29T19:03:47.081939 - WHATSAPP_SUCCESS - Message sent successfully on attempt 2
+2025-08-29T19:03:48.843680 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T19:03:49.101814 - WHATSAPP_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T19:04:15.555544 - EXPORT_ERROR - Object of type datetime is not JSON serializable
+2025-08-29T19:06:15.964054 - DATA_EXPORT - Data exported to backups/backup_20250829_190615.json
+2025-08-29T19:06:18.356737 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T19:06:18.655274 - WHATSAPP_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T19:07:19.512155 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T19:07:32.880941 - WHATSAPP_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T19:07:34.022485 - WHATSAPP_ERROR - Attempt 1 failed: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACabde460826a77e7b6dc28db02cf5a301/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACabde460826a77e7b6dc28db02cf5a301 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+
+2025-08-29T19:07:35.286443 - WHATSAPP_SUCCESS - Message sent successfully on attempt 2
+2025-08-29T19:07:36.785185 - WHATSAPP_ERROR - Attempt 1 failed: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACabde460826a77e7b6dc28db02cf5a301/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACabde460826a77e7b6dc28db02cf5a301 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+
+2025-08-29T19:07:37.956976 - WHATSAPP_ERROR - Attempt 2 failed: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACabde460826a77e7b6dc28db02cf5a301/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACabde460826a77e7b6dc28db02cf5a301 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+
+2025-08-29T19:07:40.196418 - WHATSAPP_SUCCESS - Message sent successfully on attempt 3
+2025-08-29T19:30:48.627042 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T19:30:53.010882 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T20:28:15.593745 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T20:28:52.090193 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T20:28:53.534505 - WHATSAPP_ERROR - Attempt 1 failed: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACabde460826a77e7b6dc28db02cf5a301/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACabde460826a77e7b6dc28db02cf5a301 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+
+2025-08-29T20:28:54.638293 - WHATSAPP_ERROR - Attempt 2 failed: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACabde460826a77e7b6dc28db02cf5a301/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACabde460826a77e7b6dc28db02cf5a301 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+
+2025-08-29T20:28:56.210988 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T20:28:56.742987 - WHATSAPP_ERROR - Attempt 3 failed: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACabde460826a77e7b6dc28db02cf5a301/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACabde460826a77e7b6dc28db02cf5a301 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+
+2025-08-29T20:35:31.633125 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+2025-08-29T20:35:34.224235 - WHATSAPP_ERROR - Attempt 1 failed: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACabde460826a77e7b6dc28db02cf5a301/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: Account ACabde460826a77e7b6dc28db02cf5a301 exceeded the 9 daily messages limit[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/63038[0m
+
+
+2025-08-29T20:35:35.380781 - WHATSAPP_SUCCESS - Message sent successfully on attempt 2
+2025-08-29T20:35:37.325454 - TELEGRAM_SUCCESS - Message sent successfully on attempt 1
+29.08.2025 20:38:42 | ✅ Telegram mesajı başarıyla gönderildi: 1. deneme ile gönderildi
+29.08.2025 20:38:42 | 📨 Yeni sinyal alındı: TEST-3MONTH (BUY) - Telegram: ✅, WhatsApp: ❌
+29.08.2025 20:39:15 | ⚙️ Servis durumu değiştirildi: WHATSAPP servisi aktif edildi
+29.08.2025 21:04:43 | ⚙️ Servis durumu değiştirildi: WHATSAPP servisi pasif edildi
+29.08.2025 21:04:44 | ⚙️ Servis durumu değiştirildi: TELEGRAM servisi pasif edildi
+29.08.2025 21:04:45 | ⚙️ Servis durumu değiştirildi: TELEGRAM servisi aktif edildi
+29.08.2025 21:04:46 | ✅ Telegram mesajı başarıyla gönderildi: 1. deneme ile gönderildi
+29.08.2025 21:04:48 | ✅ Telegram mesajı başarıyla gönderildi: 1. deneme ile gönderildi
+29.08.2025 21:04:48 | 📨 Yeni sinyal alındı: BTCUSDT (BUY) - Telegram: ✅, WhatsApp: ❌
+29.08.2025 21:20:53 | ⚙️ Servis durumu değiştirildi: TELEGRAM servisi pasif edildi
+29.08.2025 21:20:54 | ⚙️ Servis durumu değiştirildi: TELEGRAM servisi aktif edildi
+29.08.2025 21:20:56 | ✅ Telegram mesajı başarıyla gönderildi: 1. deneme ile gönderildi
+29.08.2025 21:21:00 | ❌ WhatsApp hatası: 1. deneme başarısız: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACabde460826a77e
+29.08.2025 21:21:01 | ❌ WhatsApp hatası: 2. deneme başarısız: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACabde460826a77e
+29.08.2025 21:21:03 | ❌ WhatsApp hatası: 3. deneme başarısız: 
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/ACabde460826a77e
+29.08.2025 21:21:04 | ✅ Telegram mesajı başarıyla gönderildi: 1. deneme ile gönderildi
+29.08.2025 21:21:04 | 📨 Yeni sinyal alındı: BTCUSDT (BUY) - Telegram: ✅, WhatsApp: ❌
+29.08.2025 21:33:32 | ⚙️ Servis durumu değiştirildi: TELEGRAM servisi pasif edildi
+29.08.2025 21:33:33 | ⚙️ Servis durumu değiştirildi: TELEGRAM servisi aktif edildi
+29.08.2025 21:33:34 | ✅ Telegram mesajı başarıyla gönderildi: 1. deneme ile gönderildi
+29.08.2025 21:33:37 | ✅ Telegram mesajı başarıyla gönderildi: 1. deneme ile gönderildi
+29.08.2025 21:33:37 | 📨 Yeni sinyal alındı: BTCUSDT (BUY) - Telegram: ✅, WhatsApp: ❌
+31.08.2025 11:49:53 | ✅ Telegram mesajı başarıyla gönderildi: 1. deneme ile gönderildi
+31.08.2025 11:49:55 | ✅ WhatsApp mesajı başarıyla gönderildi: 1. deneme ile gönderildi
+31.08.2025 11:49:57 | ✅ Telegram mesajı başarıyla gönderildi: 1. deneme ile gönderildi
+31.08.2025 11:49:57 | 📨 Yeni sinyal alındı: BTCUSDT (BUY) - Telegram: ✅, WhatsApp: ❌
